@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:8000/content/learn_eds3"
+    url: "https://localhost:8000/content/learn_eds5"
     type: "markup"
     suffix: ".html"

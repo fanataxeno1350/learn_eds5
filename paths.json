@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/learn_eds3/:/",
-    "/content/learn_eds3/configuration:/.helix/config.json",
-    "/content/learn_eds3/metadata:/metadata.json"
+    "/content/learn_eds5/:/",
+    "/content/learn_eds5/configuration:/.helix/config.json",
+    "/content/learn_eds5/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/learn_eds3/"
+    "/content/learn_eds5/"
   ]
 }
